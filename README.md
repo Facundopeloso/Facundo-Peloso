@@ -1,8 +1,8 @@
 # 👋 Hola, soy Facundo Peloso
 
-🎓 Estudiante de Ingeniería en Sistemas de Información (5° año)
-📍 Corrientes/Misiones ---> Argentina
-💻 Apasionado por el desarrollo, la automatización y la resolución de problemas
+* 🎓 Estudiante de Ingeniería en Sistemas de Información (5° año)
+* 📍 Corrientes/Misiones ---> Argentina
+* 💻 Apasionado por el desarrollo, la automatización y la resolución de problemas
 
 ---
 
