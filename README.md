@@ -80,11 +80,11 @@ También cuento con experiencia técnica en armado, reparación y configuración
 
 ## 📫 Contacto
 
-📧 Email: pelosofacundo97@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/facundo-peloso-3bb457223/
+* 📧 Email: pelosofacundo97@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/facundo-peloso-3bb457223/
 
 ---
 ## 📄 CV
-👉 [📥 Descargar CV](https://drive.google.com/file/d/1EVuKA1AztTb1dNWft3TjEQh9s91I1jkM/view?usp=sharing)
+*👉 [📥 Descargar CV](https://drive.google.com/file/d/1EVuKA1AztTb1dNWft3TjEQh9s91I1jkM/view?usp=sharing)
 
-⭐ Siempre buscando mejorar, aprender y enfrentar nuevos desafíos.
+*⭐ Siempre buscando mejorar, aprender y enfrentar nuevos desafíos.
