@@ -77,7 +77,10 @@ También cuento con experiencia técnica en armado, reparación y configuración
 * Herramientas de automatización
 
 ---
+## Presentación video
+[▶ Ver video](https://drive.google.com/file/d/1B1UeDvsbpFUGGZZauFlABTMdrUV8zg6r/view?usp=sharing)
 
+---
 ## 📫 Contacto
 
 * 📧 Email: pelosofacundo97@gmail.com
